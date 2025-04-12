@@ -3,16 +3,17 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <p align="center">
-  <span style="font-size: 30px; font-weight: bold;">Hi 👋, I'm Hoan</span>
-  &nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTloamF5bHJpcG8yb2tmNHh1aGVleHpwM3djZmw0dXl3cTQ3Y24wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPn5t0dMlAtO/giphy.gif" width="50" style="vertical-align: middle;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTloamF5bHJpcG8yb2tmNHh1aGVleHpwM3djZmw0dXl3cTQ3Y24wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPn5t0dMlAtO/giphy.gif" width="70" alt="Wave" />
 </p>
 
+<h1 align="center">
+  Hi 👋, I'm Hoan
+</h1>
 
+<h3 align="center">
+  A passionate developer from Vietnam 🇻🇳
+</h3>
 
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
 
 > ✍ I'm Đỗ Hoàn, currently a student at [University of Transport and Communications (UTT)](https://utt.edu.vn).  
 I'm passionate about web development and always eager to learn and grow in the field of programming.  
